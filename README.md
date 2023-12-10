@@ -84,11 +84,11 @@ The feasible study incorporates an analysis within the 2014–2022 timeframe of 
 
 ### Architectural Diagram
 
-![arch diagram](project/assets/ELT.png)
+![arch diagram](project/assets)
 
 ### Sequence Diagram
 
-![Sequence diagram](./assets/sequence.png)
+![Sequence diagram]()
 
 ---
 
@@ -97,7 +97,7 @@ The feasible study incorporates an analysis within the 2014–2022 timeframe of 
 ### ELT Process
 This pipeline leverages the ELT (Extract, Load, Transform) process to seamlessly manage data. Initially, information is extracted, followed by efficient loading into Hadoop. Subsequently, the data transforms, enabling insightful analysis and facilitating the creation of compelling visualizations.
 
-![ELT Process](./assets/ELT.png)
+![ELT Process](project/assets/ELT.png)
 
 ### Extraction:
 
