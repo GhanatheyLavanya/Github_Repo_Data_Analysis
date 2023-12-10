@@ -88,7 +88,7 @@ The feasible study incorporates an analysis within the 2014–2022 timeframe of 
 
 ### Sequence Diagram
 
-![Sequence diagram]()
+![Sequence diagram](project/assets/sequence.png)
 
 ---
 
