@@ -84,7 +84,7 @@ The feasible study incorporates an analysis within the 2014–2022 timeframe of 
 
 ### Architectural Diagram
 
-![arch diagram](project/assets)
+![arch diagram](project/assets/arch.png)
 
 ### Sequence Diagram
 
