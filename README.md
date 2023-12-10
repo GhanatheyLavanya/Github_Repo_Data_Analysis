@@ -1,4 +1,3 @@
-# Github_Repo_Data_Analysis
 
 # GitHub Repository Data Engineering and Analysis using SQOOP, Hive, Spark
 
